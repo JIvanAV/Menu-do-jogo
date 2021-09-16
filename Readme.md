@@ -1,0 +1,1 @@
+Menu do jogo do labirinto.
